@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Objective
+## Overview
 The purpose of our project is to determine the number of retiring employees by title and identify which employees are eligible to to participate in the mentorship program. Where we were tasked with producing these deliverables:
  - Deliverable 1: The Number of Retiring Employees by Title
  - Deliverable 2: The Employees Eligible for the Mentorship Program
