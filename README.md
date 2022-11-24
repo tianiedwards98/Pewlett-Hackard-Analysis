@@ -10,15 +10,15 @@ The purpose of our project is to determine the number of retiring employees by t
  Using SQL- relational databases
  
  ## Results
- -  With the retirment_titles table we are able to see every eligible for retirement employee and how long they have  - worked at each position over the course of their career.
+ -  With the retirement_titles table we are able to see every eligible for retirement employee and how long they have  - worked at each position over the course of their career.
  
  ![Picture](https://github.com/tianiedwards98/Pewlett-Hackard-Analysis/blob/main/images/Deliverable1-1.png?raw=true)
 
- - The unique titles table that we created is showing the most recent title for employees of retirment age.
+ - The unique titles table that we created is showing the most recent title for employees of retirement age.
  
 ![Picture](https://github.com/tianiedwards98/Pewlett-Hackard-Analysis/blob/main/images/Deliverable1-2.png?raw=true)
 
- - Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
+ - Our retiring_titles shows us the a majority of the employees of retirement age (57,668/90,398 = 64%) have senior titles.
  
  ![Picture](https://github.com/tianiedwards98/Pewlett-Hackard-Analysis/blob/main/images/Deliverable1-3.png?raw=true)
  
@@ -28,3 +28,5 @@ The purpose of our project is to determine the number of retiring employees by t
  
  ## Summary
 We can see that 63 % of the workforce is either retirment or mentorship eligible there will most likely be many positions to fill over the next 5-10 years. There may not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly. What companies can do is try to best learn about what these employees did to be so successful having such long lasting careers to continue the tradition for future employees. Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies continue to trend in the right direction by keeping revenues up.
+
+I belive if we make queries on how many new employees in the departments and also doing a query on how many people are eligible for a promotion of a title or mentor depending on how long the have been int he compnay where as the company won't we so reliant on the people who are of retiring age or who are ready to retire.
